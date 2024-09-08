@@ -1,0 +1,83 @@
+h1{
+    margin: 10px;
+    padding: 20px;
+}
+.one{
+    width: 200px;
+    padding: 4px;
+   
+}
+.two{
+    margin-left: 40px;
+    width: 200px;
+    padding: 4px;
+}
+.spr{
+    margin-left: 40px;
+    font-size: x-large;
+}
+.pdf{
+    font-size: larger;
+
+}
+.pcf{
+    margin-left: 40px;
+    width: 200px;
+    padding: 4px;
+}
+.pnf{
+    margin-left: 40px;
+    width: 200px;
+    padding: 4px;
+}
+.pdnf{
+    margin-left: 40px;
+    width: 200px;
+    padding: 4px;
+}
+.pcnf{
+    text-align: center;
+    margin-top: 25px;
+    color: blue;
+
+}
+.pcnf:hover{
+    cursor: pointer;
+    
+}
+.work{
+    margin: 0px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+}
+.work:hover{
+    cursor: pointer;
+    color:yellow;
+}
+.pma{
+    margin: 10px;
+    padding: 2px;
+}
+.li{
+    display: flex;
+    flex-direction: column;
+}
+body{
+    background-color:azure;
+}
+.skr{
+    margin-left: 40px;
+    padding: 4px;
+}
+.pcd{
+    font-size: xx-large;
+    margin: 60px;
+}
+.cdp{
+    margin-top: 50px;
+}
+.cdp:hover{
+    cursor: pointer;
+}

@@ -1,57 +1,87 @@
-*{
-    margin: 0;
-    padding: 0;
+.yes{
+    display: flex;
+    justify-content: end;
 }
-nav{
-    background-color: black;
-    color: white;
-   
+.yes:hover{
+    cursor: pointer;
+    color: green;
 }
-h1,li,ul{
+
+body{
+    background-color:floralwhite;
+}
+h2{
     display: inline;
-  
+    color: brown;
+    background-color: aliceblue;
 }
-ul{
-    margin-left: 60%;
+.one{
+    text-align: center;
 }
-li{
-    color: grey;
+.two{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    
+}
+.eleven{
+    width: 400px;
+    height: 20px;
+    padding: 10px;
+    text-align: center;
+    font-size:xx-large;
+    background-color: burlywood;
+    border-style: solid;
+    border-color: orange;
+    border-width: 5px;
+}
+.five{
+    margin-top: 30px;
+    text-align: center;
+}
+.four:hover{
+    color: blue;
     cursor: pointer;
 }
-li:hover{
-    color: white;
+.twelve{
+    width: 500px;
+    height: 30px;
+    
 }
-input{
-    width: 60%;
-    padding: 15px;
-}
-.searchbar{
-    padding: 50px;
+.ten{
     text-align: center;
+    border-color: blue;
 }
-.box{
-    border-color: black;
-    border-width: 5px;
-    border-style: solid;
-    display: inline-block;
-    width: 220px;
+.rad{
+    margin: 20px;
 }
-.box:hover{
-    background-color: black;
-    color: white;
-
+.bb{
+    font-size: xx-large;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color:grey;
+    
 }
-.product{
-    text-align: center;
+h3:hover{
+    cursor: pointer;
+    color: orange;
+}
+.bio{
+    color: blue;
+}
+.seven{
+    font-size:larger;
 }
 .about{
-    margin-top: 20px;
-    text-align: center;
-    padding: 20px;
+    font-size: larger;
 }
-.contact{
-    background-color: black;
-    color: white;
+li{
+    font-size: x-large;
+}
+.song{
     text-align: center;
-    padding: 30px;
+    margin: 50px;
+}
+.fav{
+    text-align: center;
 }
